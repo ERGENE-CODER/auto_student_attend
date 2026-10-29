@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">autattendance system</string>
+    <string name="title_activity_main">autattendance system</string>
+    <string name="package_name">com.autoattendance.system</string>
+    <string name="custom_url_scheme">com.autoattendance.system</string>
+</resources>
